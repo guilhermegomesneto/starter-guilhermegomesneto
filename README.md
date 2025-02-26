@@ -73,11 +73,12 @@ O GitHub Explore é um ótimo lugar para fazer exatamente isso ... explorar :smi
 
 Você pode conferir o site do GitHub Explore [em github.com/explore](https://github.com/explore). Quanto mais você interagir com o GitHub, mais personalizada será a sua visualização do Explore.
 
-## 📝 Próximos passos opcionais 
-
-* Abra uma pull request e informe seu professor que você terminou este curso.  
-* Crie um novo arquivo markdown neste repositório. Informe o que você aprendeu e o que ainda está confuso! Experimente diferentes estilos!
+## 📝 Próximos passos
+* Crie um novo arquivo markdown neste repositório. Salve o arquivo com seu nome completo. Informe o que você aprendeu e o que ainda está confuso! Experimente diferentes estilos!
+* Abra uma pull request e informe seu professor que você terminou este curso.
 * Crie seu README de perfil. Deixe o mundo saber um pouco mais sobre você! O que você está interessado em aprender? No que você está trabalhando? Qual é o seu hobby favorito? Aprenda mais sobre como criar seu README de perfil [aqui](https://docs.github.com/pt/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+
+## Opcionais
 * Vá até o seu painel de usuário e crie um novo repositório. Experimente os recursos dentro desse repositório para se familiarizar com eles.
 * [Deixe-nos saber o que você gostou ou não gostou do conteúdo deste curso](https://support.github.com/contact/education). O que você gostaria de ver mais? O que seria interessante ou útil para você?
 
